@@ -1,11 +1,11 @@
-  Developer Source
-  Test versions of the program are closed access, only for developers and blogger's review.
+ <b>Developer Source</b>
+ <b>Test versions of the program are closed access, only for developers and blogger's review.</b>
 
-   Windows 7/8/8.1/10
+ <b>Windows 7/8/8.1/10</b>
 
 
 
-  📗 Version - 9.2.7 - stable
+  📗  <b>Version - 9.2.7 - stable</b>
   
   -Updating the database.     
   
@@ -19,7 +19,7 @@
   
   -Fixed problems with the Internet connection.
   
-  🔄 Quick installation
+  🔄  <b>Quick installation</b>
   
  Version Direct Link:
  <table>
@@ -29,6 +29,6 @@
   </tr>
 </table> 
  
- Works like the official release version, install and run. All test updates will appear here.
- © 2020 Developer Source.
+ <b>Works like the official release version, install and run. All test updates will appear here.
+ © 2020 Developer Source.</b>
   
