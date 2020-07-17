@@ -3,7 +3,7 @@
 
  <b>Windows 7/8/8.1/10</b>
 
-  📗  <b>Version - 9.2.8 - stable</b>
+  📗  <b>Version - 9.2.9 - stable</b>
  
  <ul>
  <li>Updating the database. </li>
@@ -20,7 +20,7 @@
  Version Direct Link:
  <table>
   <tr>
-    <td>9.2.8 - Bloggers Version <a href="https://www.dropbox.com/s/l0quqp2dkwjnha1/setup.zip?dl=1">Download</a>  </td>
+    <td>9.2.9 - Bloggers Version <a href="https://www.dropbox.com/s/9k0dkk6gukemaat/setup.zip?dl=1">Download</a>  </td>
 		<td>NET Framework 3.5	 <a href="https://www.microsoft.com/ru-ru/download/details.aspx?id=48130">Download</a>  </td>
   </tr>
 </table> 
