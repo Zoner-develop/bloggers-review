@@ -2,15 +2,6 @@
  <b>Test versions of the program are closed access, only for developers and blogger's review.</b>
 
  <b>Windows 7/8/8.1/10</b>
-<ul>
- <li>Updating the database. </li>
- <li>Added a section for bloggers.</li>
- <li>Optimization.</li>
- <li>Fixed errors with opening directories.</li>
- <li>Syncing changes with your account.</li>
- <li>Fixed problems with the Internet connection.</li>
-</ul>
-
 
   📗  <b>Version - 9.2.7 - stable</b>
  
