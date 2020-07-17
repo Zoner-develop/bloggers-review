@@ -3,7 +3,7 @@
 
  <b>Windows 7/8/8.1/10</b>
 
-  📗  <b>Version - 9.2.7 - stable</b>
+  📗  <b>Version - 9.2.8 - stable</b>
  
  <ul>
  <li>Updating the database. </li>
