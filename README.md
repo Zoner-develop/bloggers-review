@@ -20,7 +20,7 @@
  Version Direct Link:
  <table>
   <tr>
-    <td>9.2.9 - Bloggers Version <a href="https://www.dropbox.com/s/9k0dkk6gukemaat/setup.zip?dl=1">Download</a>  </td>
+    <td>9.2.9 - Bloggers Version <a href="https://www.dropbox.com/s/oeuyog8mnm2gav5/setup.zip?dl=1">Download</a>  </td>
 		<td>NET Framework 3.5	 <a href="https://www.microsoft.com/ru-ru/download/details.aspx?id=48130">Download</a>  </td>
   </tr>
 </table> 
